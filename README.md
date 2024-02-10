@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Romain Wintgens</h1>
-<h3 align="center">Low-level programmer, currently at @42school</h3>
 
-- 📫 How to reach me **rwintgen@student.42angouleme.fr**
+![GitHub banner-2](https://github.com/rwintgen/rwintgen/assets/150167832/1f724708-4f2c-45c8-b816-57d71d1c9494)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
